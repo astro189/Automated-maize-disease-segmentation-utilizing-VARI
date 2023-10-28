@@ -1,4 +1,4 @@
-# Automated-leaf-disease-segmentation
+# Automated-leaf-disease-segmentation-utilizing-vegtation-indices
 A robust implementation of combining vegetation indexes with advanced image processing techniques to segment affected areas of maize leaves
 
 <h3>What are vegetation indexes?</h3>
