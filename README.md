@@ -64,3 +64,27 @@ Steps Involved:
 <br>
 <p align="center"><img src="https://github.com/astro189/Automated-maize-disease-segmentation-using-Vegetation-indexes-and-Image-Processing/blob/main/Extracted%20images/EXtraction4.jpg" width=400px></p>
 <p align="center">Filtered Image</p>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/astro189/Automated-maize-disease-segmentation-utilizing-VARI/blob/main/Extracted%20images/Original1.jpg" alt="Original1" width=200px height=200px>
+      <p align="center"><b>Original</p>
+    </td>
+    <td><img src="https://github.com/astro189/Automated-maize-disease-segmentation-utilizing-VARI/blob/main/Extracted%20images/EXtraction1.jpg" alt="Extracted-1" width=200px height=200px>
+      <p align="center"><b>Segmented</p>
+    </td>
+    <td><img src="https://github.com/astro189/Automated-maize-disease-segmentation-utilizing-VARI/blob/main/Extracted%20images/Original3.jpg" alt="Original2" width=200px height=200px>
+      <p align="center"><b>Original</p>
+    </td>
+    <td><img src="https://github.com/astro189/Automated-maize-disease-segmentation-utilizing-VARI/blob/main/Extracted%20images/EXtraction3.jpg" alt="Extracted-2" width=200px height=200px>
+      <p align="center"><b>Segmented</p>
+    </td>
+  </tr>
+    <td><img src="https://github.com/astro189/Automated-maize-disease-segmentation-utilizing-VARI/blob/main/Extracted%20images/Original5.jpg" alt="Original4" width=200px height=200px>
+      <p align="center"><b>Original</p>
+    </td>
+    <td><img src="https://github.com/astro189/Automated-maize-disease-segmentation-utilizing-VARI/blob/main/Extracted%20images/EXtraction5.jpg" alt="Extracted-4" width=200px height=200px>
+      <p align="center"><b>Segmented</p>
+    </td>
+  </tr>
+</table>
