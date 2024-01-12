@@ -40,8 +40,8 @@ The segmentation process is divided into two steps:
 
 <p>In the segmentation process however we would mainly be using the VARI Index</p>
 <p align="center"><img src="https://github.com/astro189/Automated-maize-disease-segmentation-using-Vegetation-indexes-and-Image-Processing/blob/main/Readme_img/d82977b91e4c36028bded9c58ce6f4c4db8ac6af_vari-index-formula.jpg" alt="VARI Index Formula" width=400px></p>
-
-Steps Involved:
+<h3>Primary Segmentation</h3>
+<h4>Steps Involved:</h4>
 <li>Applying VARI on original image</li>
 <li>Binarizing the processed image</li>
 <li>Inverting pixel values to generate primary disease mask</li>
