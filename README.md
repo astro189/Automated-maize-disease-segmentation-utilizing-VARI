@@ -64,7 +64,7 @@ Steps Involved:
 <br>
 <p align="center"><img src="https://github.com/astro189/Automated-maize-disease-segmentation-using-Vegetation-indexes-and-Image-Processing/blob/main/Extracted%20images/EXtraction4.jpg" width=400px></p>
 <p align="center">Filtered Image</p>
-
+<br>
 <table>
   <tr>
     <td><img src="https://github.com/astro189/Automated-maize-disease-segmentation-utilizing-VARI/blob/main/Extracted%20images/Original1.jpg" alt="Original1" width=200px height=150px>
@@ -87,3 +87,4 @@ Steps Involved:
     </td>
   </tr>
 </table>
+<p align="center"> More Examples</p>
